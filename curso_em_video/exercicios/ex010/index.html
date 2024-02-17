@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Links</title>
+
+</head>
+<body>
+    
+    <h1>Usando Links externos</h1>
+    <p>Você pode acessar o meu <a href="https://gustavoguanabara.github.io/" target="_blank" rel="external">repositório público no GitHub</a></p> <!-- envelopar trecho desejado com parametro "a" para link externo-->
+    <p>Você também pode acessar o meu <a href="https://youtube.com/cursoemvideo" target="_blank" rel="external">canal gratuito no YouTube</a></p>
+
+    <!-- target="_blank" rel="external" .: use parametro acima para abrir link numa nova aba e deixar seu site aberto-->
+
+    <h1>Usando links Internos</h1>
+    <p>Esta é a primeira página do site. Se você quiser, pode acessar também a minha <a href="pag002.html" rel="next">segunda página</a></p>
+    <!-- use rel="next" para dar significado ao google da hierarquia da página / next -->
+    <p>Você também pode acessar a nossa <a href="noticias/pag003.html" rel="next" target="_self">página de notícias</a></p> <!-- target="_self" / use esse parâmetro dentro da sua pagina para notificar que se trata de uma sub-pagina da sua pagina abrir na mesma guia -->
+
+    <h1>Links para downloads</h1>
+    <ul>
+        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application/pdf">Baixar o link em PDF</a></li>
+        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Livro compactado em ZIP</a></li>
+
+        <!-- download="meulivro.pdf" type="application/pdf"
+        com esses parâmetros você pode buscar no site iana.org a sintaxe do tipo de arquivo para que o html faça o download direto pra o cliente diferente de abrir na mesma aba o arquivo em questão .: site: https://www.iana.org/assignments/media-types/media-types.xhtml -->
+
+    </ul>
+
+</body>
+</html>

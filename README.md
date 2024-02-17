@@ -1,2 +1,2 @@
-# HTML-CSS-JS_LearnAndPratice
-Cursos e Exercícios sobre DEV
+# html-css
+ Curso de HTML5-CSS3 do Curso em Vídeo
