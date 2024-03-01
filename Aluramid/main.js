@@ -45,8 +45,6 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
 }
 
-
-
 // convenção para utilizar main.js como nome do arquivo javascript
 // utilize <script src="main.js"></script> no .html para ligar-lo ao .js
 
