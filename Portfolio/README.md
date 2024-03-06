@@ -56,3 +56,13 @@ Nessa aula, você aprendeu como:
 Definir espaçamento vertical e horizontal;
 Posicionar os elementos em coluna com Flexbox;
 Utilizar o recurso Gap para espaçar cada elemento filho.
+
+--- Nessa aula, você aprendeu como:
+Fazer a estilização do header do portfólio;
+Criar a nova página HTML “Sobre mim”;
+Desenvolver a navegação entre as páginas “Home” e “Sobre mim”.
+
+Nessa aula, você aprendeu como:
+Adicionar conteúdo a uma nova página;
+O que são variáveis CSS;
+Como customizar o projeto aplicando variáveis CSS.
