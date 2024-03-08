@@ -66,3 +66,22 @@ Nessa aula, você aprendeu como:
 Adicionar conteúdo a uma nova página;
 O que são variáveis CSS;
 Como customizar o projeto aplicando variáveis CSS.
+
+curso responsividade:
+
+Nessa aula, você aprendeu:
+Sobre medidas relativas e absolutas;
+Utilizar a documentação sobre unidade de medidas;
+Utilizar a unidade de medida REM;
+Alterar a aparência do navegador em configurações.
+
+Adaptar elementos;
+Utilizar a ferramenta do DevTools;
+Visualizar nosso projeto na versão responsiva;
+Alterar o tamanho da visualização na tela;
+Adaptar elementos utilizando as unidades de medidas relativas.
+
+O que é a media query;
+O que é a responsividade;
+Como adaptar nosso site para diferentes tamanhos de tela;
+Que a unidade de medida porcentagem é amiga da responsividade.
